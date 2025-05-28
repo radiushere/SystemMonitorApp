@@ -3,3 +3,252 @@
 2025-05-28 13:11:36 - INFO - Application closing.
 2025-05-28 13:11:41 - INFO - Application started.
 2025-05-28 13:11:54 - INFO - Application closing.
+2025-05-28 13:21:45 - INFO - Application started.
+2025-05-28 13:27:25 - INFO - Application closing.
+2025-05-28 13:32:53 - INFO - Application started.
+2025-05-28 13:32:59 - INFO - Application closed.
+2025-05-28 13:42:01 - INFO - Application started.
+2025-05-28 14:05:19,929 - INFO - Application started.
+2025-05-28 14:06:36,757 - INFO - Terminated process: PID=14992, Name=Notion.exe
+2025-05-28 14:06:44,140 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 885, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 915, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:06:48,194 - INFO - Terminated process: PID=11972, Name=Notion.exe
+2025-05-28 14:07:12,165 - INFO - Theme changed to: solar
+2025-05-28 14:07:14,499 - INFO - Theme changed to: united
+2025-05-28 14:07:15,987 - INFO - Theme changed to: vapor
+2025-05-28 14:07:22,997 - INFO - Theme changed to: cerculean
+2025-05-28 14:07:25,210 - INFO - Theme changed to: simplex
+2025-05-28 14:07:27,159 - INFO - Theme changed to: vapor
+2025-05-28 14:07:31,212 - INFO - Theme changed to: solar
+2025-05-28 14:07:45,597 - INFO - Application closed.
+2025-05-28 14:08:56,016 - INFO - Application started.
+2025-05-28 14:09:22,352 - INFO - Application closed.
+2025-05-28 14:11:59,210 - INFO - Application started.
+2025-05-28 14:12:21,405 - INFO - Application closed.
+2025-05-28 14:12:50,509 - INFO - Application started.
+2025-05-28 14:13:01,632 - INFO - Application closed.
+2025-05-28 14:13:22,399 - INFO - Application started.
+2025-05-28 14:13:25,195 - INFO - Application closed.
+2025-05-28 14:13:51,691 - INFO - Application started.
+2025-05-28 14:13:59,812 - INFO - Application closed.
+2025-05-28 14:16:47,724 - INFO - Application started.
+2025-05-28 14:17:24,820 - INFO - Pomodoro started: Work for 25 min.
+2025-05-28 14:17:27,745 - INFO - Pomodoro timer stopped.
+2025-05-28 14:17:27,745 - INFO - Pomodoro started: Work for 25 min.
+2025-05-28 14:17:28,914 - INFO - Pomodoro timer stopped.
+2025-05-28 14:17:28,916 - INFO - Pomodoro started: Work for 25 min.
+2025-05-28 14:17:29,638 - INFO - Pomodoro timer stopped.
+2025-05-28 14:17:31,584 - INFO - Pomodoro started: Work for 25 min.
+2025-05-28 14:17:32,125 - INFO - Pomodoro timer stopped.
+2025-05-28 14:17:46,930 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:17:49,069 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:17:49,164 - INFO - Settings applied: CPU Alert=1%, Mem Alert=90%, Disk Alert=90%
+2025-05-28 14:17:51,188 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:17:53,303 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:17:55,417 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:17:57,529 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:17:59,639 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:18:01,752 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:18:03,863 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:18:05,976 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:18:08,107 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:18:11,013 - INFO - Settings applied: CPU Alert=90%, Mem Alert=90%, Disk Alert=90%
+2025-05-28 14:18:20,842 - INFO - Log display cleared by user.
+2025-05-28 14:18:25,068 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:18:26,069 - INFO - Settings applied: CPU Alert=1%, Mem Alert=90%, Disk Alert=90%
+2025-05-28 14:18:27,180 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:18:29,285 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:18:31,404 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:18:33,525 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:18:35,647 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:18:37,782 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:18:39,896 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:18:46,999 - INFO - Settings applied: CPU Alert=90%, Mem Alert=90%, Disk Alert=90%
+2025-05-28 14:19:18,812 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:19:46,900 - INFO - Log display cleared by user.
+2025-05-28 14:20:38,391 - INFO - Theme changed to: darkly
+2025-05-28 14:20:39,707 - INFO - Theme changed to: united
+2025-05-28 14:20:40,895 - INFO - Theme changed to: morph
+2025-05-28 14:20:42,342 - INFO - Theme changed to: darkly
+2025-05-28 14:20:44,327 - INFO - Theme changed to: solar
+2025-05-28 14:21:30,407 - INFO - Application closed.
+2025-05-28 14:21:48,736 - ERROR - Error updating data: module 'ttkbootstrap' has no attribute 'Messagebox'
+Traceback (most recent call last):
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 977, in update_data
+    self._show_alert(f"High CPU usage: {cpu_percent_overall:.1f}%")
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\DELL\Desktop\LogManager\system_monitor.py", line 1007, in _show_alert
+    tb.Messagebox.show_warning(message=message, title="System Alert", parent=self.root)
+    ^^^^^^^^^^^^^
+AttributeError: module 'ttkbootstrap' has no attribute 'Messagebox'
+2025-05-28 14:21:48,872 - INFO - Application started.
+2025-05-28 14:22:37,080 - INFO - Application closed.
+2025-05-28 14:22:46,335 - INFO - Application started.
+2025-05-28 14:22:55,289 - INFO - Application closed.
