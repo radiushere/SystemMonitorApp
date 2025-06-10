@@ -798,9 +798,6 @@ class SystemMonitorApp:
                 if platform.system() == "Windows":
                     os.system("shutdown /l") # /l for logoff
                 elif platform.system() == "Linux":
-                    # This is more complex and depends on the desktop environment.
-                    # 'pkill -KILL -u $USER' is a forceful way to kill all user processes,
-                    # which often leads to a logout. It might not be graceful.
                     os.system("pkill -KILL -u $USER")
                     messagebox.showinfo("Logout", "Attempted to log out. This might not work on all Linux setups or might not be graceful.")
                 elif platform.system() == "Darwin": # macOS
