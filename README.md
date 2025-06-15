@@ -47,7 +47,7 @@
         <li>
             <p><strong>Clone the Repository:</strong><br>
             Open your terminal and run:</p>
-            <pre><code>git clone &lt;[repository_url](https://github.com/radiushere/SystemMonitorApp)&gt;
+            <pre><code>git clone https://github.com/radiushere/SystemMonitorApp
 cd &lt;repository_directory&gt;</code></pre>
         </li>
         <li>
